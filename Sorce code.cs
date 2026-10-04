@@ -159,7 +159,7 @@ namespace ValheimProductionCapacities
                      cleanPrefabName.ToLower().Contains("frigidkiln"))
             {
                 instance.m_maxOre = ProductionCapacitiesPlugin.FrigidKilnMaxIce;
-                instance.m_maxFuel = ProductionCapacitiesPlugin.FrigidKilnMaxIce;
+                //instance.m_maxFuel = ProductionCapacitiesPlugin.FrigidKilnMaxIce;
             }
         }
     }
