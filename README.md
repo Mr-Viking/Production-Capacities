@@ -12,7 +12,7 @@ A lightweight, completely dynamic utility that lets you customize the maximum st
 
 * **Flexible Thresholds: Set custom limits to fit your playstyle, from vanilla defaults to massive bulk-processing capacities.**
 
-* **Uses ServerSync to lock settings and sync settings to all clients**
+* **Uses ServerSync to lock settings and sync settings to all clients.**
 
 
 ## ⚙️ Requirements
