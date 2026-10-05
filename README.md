@@ -1,8 +1,8 @@
-###### A lightweight, completely dynamic utility that lets you customize the maximum storage capacities for all production stations on the fly using standard configuration sliders.
+# Production-Capacities
 
 ###### 
 
-###### 🛠️ Features
+## 🛠️ Features
 
 ###### Dynamic Max Storage: Adjust the maximum input capacities for ore, coal, wood, barley, flax, tissue, and sap across all vanilla production structures.
 
@@ -14,14 +14,14 @@
 
 ###### 
 
-###### ⚙️ Requirements
+## ⚙️ Requirements
 
 ###### BepInEx pack for Valheim
 ###### Official BepInEx Configuration Manager (Highly recommended to gain access to the interactive UI sliders inside the game via the F1 or Pause hotkey).
 
 ###### 
 
-###### 🚀 Installation
+## 🚀 Installation
 
 ###### Move the ProductionCapacities.dll file directly into your game's Valheim/BepInEx/plugins/ folder.
 
