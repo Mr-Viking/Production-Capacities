@@ -21,5 +21,4 @@ A lightweight, completely dynamic utility that lets you customize the maximum st
 
 ## 🚀 Installation
 1. Move the ProductionCapacities.dll file directly into your game's Valheim/BepInEx/plugins/ folder.
-
 2. Launch the game and access the settings panel via your configuration manager hotkey.
